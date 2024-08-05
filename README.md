@@ -1,6 +1,7 @@
 <h1 align="center"> Hello, I'm Matteo. </h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShameIRL&label=Visits&color=0077B5">
   <a href="matteobaggio.com">
     <img src="https://img.shields.io/badge/Website-matteobaggio.com-272727.svg">
   </a>
@@ -8,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-in/baggio--matteo-0077B5.svg">
   </a>  
   <a href="mailto:morningape@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-morningape@protonmail.com-6D4AFF.svg">
+    <img src="https://img.shields.io/badge/Mail-ProtonMail-6D4AFF.svg">
   </a>
 </p>
 
@@ -18,9 +19,10 @@
 </br>
 <p align="center">
   <a href="https://github.com/ShameIRL">
-      <img src="https://github-stats-alpha.vercel.app/api?username=ShameIRL&cc=000&tc=fff&ic=878787&bc=000">
+      <img src="https://github-stats-alpha.vercel.app/api?username=ShameIRL&cc=151515&tc=fff&ic=878787&bc=000">
   </a>
 </p>
+
 
 <!--
 **ShameIRL/ShameIRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
