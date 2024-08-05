@@ -1,4 +1,4 @@
-<h1 align="center"> Hello 👋, I'm Matteo. </h1>
+<h1 align="center"> Hello, I'm Matteo. </h1>
 
 <p align="center">
   <a href="matteobaggio.com">
@@ -15,9 +15,12 @@
 <h3 align="center"> I'm a Software Engineer. </h3>
 <h3 align="center"> I'm currently passionate about Artificial Intelligence and its Applications. </h3>
 
-<a href="https://github.com/ShameIRL">
-    <img src="https://github-stats-alpha.vercel.app/api?username=ShameIRL">
-</a>
+</br>
+<p align="center">
+  <a href="https://github.com/ShameIRL">
+      <img src="https://github-stats-alpha.vercel.app/api?username=ShameIRL&cc=000&tc=fff&ic=878787&bc=000">
+  </a>
+</p>
 
 <!--
 **ShameIRL/ShameIRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
