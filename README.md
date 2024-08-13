@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShameIRL&label=Visits&color=0077B5">
-  <a href="matteobaggio.com">
+  <a href="https://matteobaggio.com">
     <img src="https://img.shields.io/badge/Website-matteobaggio.com-272727.svg">
   </a>
   <a href="http://www.linkedin.com/in/baggio-matteo">
