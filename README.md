@@ -2,13 +2,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShameIRL&label=Visits&color=0077B5">
-  <a href="https://matteobaggio.com">
+  <a href="https://matteobaggio.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-matteobaggio.com-272727.svg">
   </a>
-  <a href="http://www.linkedin.com/in/baggio-matteo">
+  <a href="http://www.linkedin.com/in/baggio-matteo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-in/baggio--matteo-0077B5.svg">
   </a>  
-  <a href="mailto:morningape@protonmail.com">
+  <a href="mailto:morningape@protonmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Mail-ProtonMail-6D4AFF.svg">
   </a>
 </p>
